@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Mario",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/80/Super_Smash_Bros._Ultimate_-_Character_Art_-_Mario.png/revision/latest?cb=20180612202944&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Pikachu",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/83/Super_Smash_Bros._Ultimate_-_Character_Art_-_Pikachu.png/revision/latest?cb=20180612175310&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Link",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/4/42/Super_Smash_Bros._Ultimate_-_Character_Art_-_Link.png/revision/latest?cb=20180612222832&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Zelda",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/70/Super_Smash_Bros._Ultimate_-_Character_Art_-_Zelda.png/revision/latest?cb=20180613020436&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Kirby",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/7b/Super_Smash_Bros._Ultimate_-_Character_Art_-_Kirby.png/revision/latest?cb=20180612175227&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Fox Mcloud",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/0/09/Fox_McCloud_Adventures.jpg/revision/latest?cb=20070820110055&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Yoshi",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/7/72/Super_Smash_Bros._Ultimate_-_Character_Art_-_Yoshi.png/revision/latest?cb=20180612175133&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Donkey Kong",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/a/a0/Super_Smash_Bros._Ultimate_-_Character_Art_-_Donkey_Kong.png/revision/latest?cb=20180612221124&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Peach",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/f/f4/Super_Smash_Bros._Ultimate_-_Character_Art_-_Peach.png/revision/latest?cb=20180613010333&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Luigi",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/b/b1/Super_Smash_Bros._Ultimate_-_Character_Art_-_Luigi.png/revision/latest?cb=20180612224158&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Charizard",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/f/ff/Mega_Charizard_Y.png/revision/latest?cb=20160229050101&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Sonic",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/f/fd/Super_Smash_Bros._Ultimate_-_Character_Art_-_Sonic.png/revision/latest?cb=20180612181133&path-prefix=en",
+      "count": 0
+    }
+  ]
