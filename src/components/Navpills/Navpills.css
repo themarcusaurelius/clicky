@@ -6,16 +6,14 @@
     background: #000;
     min-height: 100px;
     width: 100%;
-    text-align: left;
     -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     color: #fff;
-    font-weight: bold;
     z-index: 99;
     white-space: nowrap;
     opacity: .7;
     display: flex;
-    align-items: center;
+    align-items: stretch;
     flex-direction: row;
     justify-content: space-evenly;
 }
@@ -41,3 +39,25 @@
 .desc-incorrect {
     color: #f00;
 }
+
+@media screen and (max-width: 700px) {
+    
+    .nav-pills {
+        position: fixed;
+        size: 3%;
+        top: 0;
+        background: #000;
+        width: 100%;
+        color: #fff;
+        z-index: 99;
+        white-space: pre-wrap;
+        opacity: .8;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 5%;
+        margin-left: -4%;
+    }
+  }
+  

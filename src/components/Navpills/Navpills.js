@@ -4,7 +4,7 @@ import "./Navpills.css";
 const Navpills = props => (
     <div>
         <ul className="nav nav-pills row">
-            <h1>SmashBros Clicky Game</h1>
+            <h1>SmashBros Clicky</h1>
             <h1
                 className={props.message.indexOf('incorrectly') !== -1 ? 
                     "desc-incorrect" : 

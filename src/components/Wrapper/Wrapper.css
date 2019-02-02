@@ -11,3 +11,17 @@
     overflow: auto;
 }
 
+
+@media screen and (max-width: 700px) {
+    .wrapper {
+        background: url('/img/smashbros.jpg');
+        background-size: 100%; 
+        height: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        padding: 50px 10%;
+        justify-content: space-around;
+        align-content: flex-start;
+        overflow: auto;
+    }
+  }
