@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo: 
+
+https://clickclicksmash.herokuapp.com/
+
+## Premise
+
+This is a light-weight app built quickly within a 1 week sprint/deadline. It is meant to be a brain-teaser game that tests the user's memory capabilities. The user will click on an image which will then randomly shuffle the images. They must keep clicking on different images to add to their total score but if they click on an image twice, the game and score will reset!
+
+How high can you get your score?!
+
+## Skillset:
+
+  1. React
+  2. .map()
+  3. counters
+  4. CSS graphics
 
 ## Available Scripts
 
