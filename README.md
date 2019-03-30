@@ -25,13 +25,9 @@ The demo is hosted here: https://clickclicksmash.herokuapp.com/
 
 In the project directory:
 
-1.git clone https://github.com/themarcusaurelius/clicky.git
-2.cd clicky-game
-3.npm install or yarn install
-
-* View threads/posts from other users who have selected this location. 
-* View directions on how to get to the selected Greenbelt location.
-* Allow user to start their own thread, which can in turn be viewed by other users.
+* git clone https://github.com/themarcusaurelius/clicky.git 
+* cd clicky-game
+* npm install or yarn install
 
 
 ## Running Locally
