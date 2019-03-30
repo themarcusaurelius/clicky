@@ -32,5 +32,5 @@ In the project directory:
 
 ## Running Locally
 
-`To run the application locally, run npm or yarn start and the broswer should open to local host 3000.`
+`*run npm or yarn start and the broswer should open to local host 3000.`
 
