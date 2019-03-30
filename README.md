@@ -23,13 +23,13 @@ The demo is hosted here: https://clickclicksmash.herokuapp.com/
 
 ## Installation
 
-In the project directory, you can run:
+`In the project directory, you can run:
 
 git clone https://github.com/themarcusaurelius/clicky.git
 
 cd clicky-game
 
-npm install or yarn install
+npm install or yarn install`
 
 ## Running Locally
 
