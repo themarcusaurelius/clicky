@@ -10,7 +10,7 @@ How high of a score can you get?!
 ## Demo: 
 
 The demo is hosted here: https://clickclicksmash.herokuapp.com/
-![Test Image 1](http://i66.tinypic.com/ou2lc5.png)
+![Test Image 1](http://i65.tinypic.com/24bqofa.png)
 
 
 ## Skillset:
