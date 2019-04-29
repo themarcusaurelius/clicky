@@ -1,7 +1,5 @@
 ## Premise
 
-Week 19 React Assignment
-
 This is a light-weight app built within a 1 week sprint. It is meant to be a brain-teaser game that tests the user's memory capabilities. The user will click on a random image which will then randomly shuffle the displayed images. They must keep clicking on different images to add to their total score but if they click on an image twice the game and their score will reset!
 
 How high of a score can you get?!
